@@ -1,10 +1,3 @@
-<!--
-  LIZA.EXE // personal GitHub profile README
-  Theme: cozy retro x hacker arcade
-  Profile repository: https://github.com/lz811/lz811
-  Hero art: assets/retro-computer-banner.png
-  To add featured projects: replace the content between the FEATURED_PROJECTS markers.
--->
 
 <div align="center">
   <img src="assets/retro-computer-banner.png" alt="Cozy pixel-art hacker desk with a vintage CRT booting LIZA.EXE" width="100%" />
@@ -13,7 +6,7 @@
   <br />
 
   <a href="https://github.com/lz811">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2700&amp;pause=950&amp;color=9DCDA7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=740&amp;height=42&amp;lines=Cybersecurity+Enthusiast;Reverse+Engineering+Enthusiast;CTF+Player;Low-Level+Programming+Explorer;OSINT+Curious+Mind" alt="Typing animation: cybersecurity, reverse engineering, CTFs, low-level programming and OSINT" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2700&amp;pause=950&amp;color=9DCDA7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=740&amp;height=42&amp;lines=Cybersecurity+Enthusiast;Reverse+Engineering+Enthusiast;CTF+Player;Low-Level+Programming+Explorer;OSINT" alt="Typing animation: cybersecurity, reverse engineering, CTFs, low-level programming and OSINT" />
   </a>
 
   <p><samp><b>liza@retro-pc:~$</b> ./explore --beyond-the-surface</samp></p>
