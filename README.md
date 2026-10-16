@@ -25,7 +25,7 @@
 player: Liza
 role: Cybersecurity Enthusiast & Developer
 favorite_side_quest: Reverse Engineering
-currently_at: École 42 Barcelona
+currently_at: École 42 
 curiosity_level: MAX
 ```
 
