@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lz811/lz811/main/assets/pixel-pet.gif" width="500" alt="Animated hacker cat" />
+  <img src="https://raw.githubusercontent.com/lz811/lz811/main/assets/pixel-cat-transparent.gif" width="500" alt="Animated hacker cat" />
 </div>
 
 <h1 align="center">Hi, I'm Liza 👾</h1>
