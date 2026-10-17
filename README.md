@@ -26,7 +26,6 @@ player: Liza
 role: Cybersecurity Enthusiast & Developer
 favorite_side_quest: Reverse Engineering
 currently_at: École 42 
-curiosity_level: MAX
 ```
 
 I love the moment when a confusing binary starts making sense. I'm especially drawn to **reverse engineering**, **CTF challenges**, and **low-level programming** — the kind of problems that reward patience, curiosity, and a willingness to dig deeper.
