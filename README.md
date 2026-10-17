@@ -1,7 +1,9 @@
 
 <div align="center">
-  <img src="assets/retro-computer-banner.jpg" alt="Cozy pixel-art hacker desk with a vintage CRT booting LIZA.EXE" width="100%" />
+  <img src="https://raw.githubusercontent.com/lz811/lz811/main/assets/pixel-pet.gif" width="500" alt="Animated hacker cat" />
+</div>
 
+<h1 align="center">Hi, I'm Liza 👾</h1>
   <br />
   <br />
 
