@@ -42,7 +42,7 @@ Outside the debugger, I enjoy **OSINT** and following tiny clues until they form
 
 | 🧩 Programming & scripting | 🛠️ Security & debugging | ⚙️ Environment & workflow |
 | :--- | :--- | :--- |
-| Python · Rust · Assembly · Bash · HTML/CSS | GDB · Burp Suite · Wireshark | Linux · Git/GitHub · Docker |
+| Python · Rust · Assembly · Bash  | GDB · Burp Suite · Wireshark | Linux · Git/GitHub · Docker |
 
 ### `03 / CURRENT QUESTS`
 
