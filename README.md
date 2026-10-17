@@ -1,11 +1,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lz811/lz811/main/assets/pixel-cat-transparent.gif" width="500" alt="Animated hacker cat" />
-</div>
-
-<h1 align="center">Hi, I'm Liza 👾</h1>
-  <br />
-  <br />
 
   <a href="https://github.com/lz811">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2700&amp;pause=950&amp;color=9DCDA7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=740&amp;height=42&amp;lines=Cybersecurity+Enthusiast;Reverse+Engineering+Enthusiast;CTF+Player;Low-Level+Programming+Explorer;OSINT" alt="Typing animation: cybersecurity, reverse engineering, CTFs, low-level programming and OSINT" />
